@@ -1,0 +1,35 @@
+h3 {
+  Color:grey;
+  padding:10px;
+}
+footer {
+  padding:10px;
+ 
+}
+
+
+
+#intro{
+  padding:10px;
+  text-align:justify;
+}
+
+#quote-one, #quote-two, #quote-three{
+  font-style:italic;
+  text-align:center;
+  border:1px groove ;
+  box-shadow:5px 5px 5px grey;
+  border-radius:5px;
+  padding:5px;
+}
+
+#info, #last{
+  padding:15px;
+  text-align:justify;
+}
+ 
+#profile{ 
+  height:300px;
+  overflow:auto;
+}
+
